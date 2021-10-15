@@ -19,3 +19,8 @@
 10. Line 12 will print out 3 becasue that is the length of prices. Since length was declared with the const keyword, that means it has block scope and that its values cannot be changed. There was no reassignment to length and line 12 is in the same block that length was declared in so there is no error.
     
 11. This function will return the array 'discounted'. Since discounted was declared with the const keyword, it has block scope. All of the discountedPrice have been pushed into discounted, so at the end the array with all the prices calcuated will be returned. Line 14 is within the block that discounted was declared in so there is no error and there was no reassignment to discounted as well.
+    
+12. 
+    A. student.name
+    B. student['Grad Year']
+    C. student.[greeintg]()
