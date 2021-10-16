@@ -46,3 +46,8 @@
     F. true Any number that is not a 0 when the Boolean function is called on it returns true. true is equal to Boolean(2), or true, so   this returns true.
 
 15. == does not check the data type of the variables during comparison but === does.
+
+19. 1
+    4
+    3
+    2
