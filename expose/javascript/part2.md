@@ -63,7 +63,7 @@
 
 17. The result will be an array that contains the numbers [2,4,6]. During the for loop, each value in the array that is passed in is used as an input into the callback function, doSomething. Since doSomething multiplies each value in the array by 2, that is how I got 2, 4, and 6. These values are then put back into newArr and then returned.
 
-19. 1
-    4
-    3
+19. 1<br />
+    4<br />
+    3<br />
     2
