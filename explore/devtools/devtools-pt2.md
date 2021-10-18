@@ -1,2 +1,2 @@
-1. The bug was that num1 and num2 were not parsed as nubmers. It was adding two strings together. 
-2. 
+1. The bug was that num1 and num2 were not parsed as ints. The function was adding two strings together so the result was the concatenation of the num1 and num2.
+2. I fixed the bug by parsing num1 and num2 as ints. Then the addition will work as expected.
